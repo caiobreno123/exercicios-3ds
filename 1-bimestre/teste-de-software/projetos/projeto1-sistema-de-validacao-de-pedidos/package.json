@@ -1,0 +1,12 @@
+{
+  "name": "projeto-validar-pedido",
+  "version": "1.0.0",
+  "description": "Validação de Pedido - versão atualizada",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
