@@ -14,4 +14,4 @@ function validarPedido(pedido) {
   return true
 }
 
-module.exports = validarPedido;
+module.exports = validarPedido
