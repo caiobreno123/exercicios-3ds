@@ -1,0 +1,11 @@
+{
+  "name": "atividade-matchers",
+  "version": "1.0.0",
+  "description": "Atividade usando matchers do Jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
