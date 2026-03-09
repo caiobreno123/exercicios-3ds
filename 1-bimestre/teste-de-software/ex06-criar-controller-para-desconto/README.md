@@ -1,22 +1,11 @@
-# 📝 Atividade rápida
 
-## Criar Controller para Desconto
+Projeto simples para teste de Service e Controller.
 
-Você deve:
+Regra:
+- Se valor > 100 → 10% de desconto
+- Caso contrário → valor normal
 
-1. Criar um `descontoService`
-    - Se valor > 100 → aplicar 10% de desconto
-    - Caso contrário → retornar valor normal
-2. Criar `descontoController`
-    - Recebe `valor` via `req.body`
-    - Retorna:
+Rodar:
 
-```jsx
-{
-	valorFinal: resultadoComDesconto
-}
-```
-
-1. Criar teste para:
-    - Service
-    - Controller
+npm install
+npm test
