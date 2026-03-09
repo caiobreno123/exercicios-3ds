@@ -1,0 +1,19 @@
+ATIVIDADE – IDENTIFICANDO TIPOS DE TESTE
+
+1) Testar uma função isolada é qual tipo de teste?
+Resposta:
+Teste Unitário.
+É quando testamos apenas uma função ou pequena parte do código de forma isolada.
+
+2) Testar a API junto com o banco é qual tipo?
+Resposta:
+Teste de Integração.
+Esse teste verifica se diferentes partes do sistema estão funcionando juntas, por exemplo a API comunicando com o banco de dados.
+
+3) Qual a principal ideia do TDD?
+Resposta:
+TDD (Test Driven Development) significa Desenvolvimento Orientado a Testes.
+A ideia principal é:
+1. Primeiro escrever o teste.
+2. Depois escrever o código para passar no teste.
+3. Por fim melhorar o código mantendo o teste passando.
