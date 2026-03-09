@@ -1,7 +1,19 @@
-# 📝 Atividade rápida
+# Teste de Multiplicação
 
-## **Teste de multiplicação**
+## Descrição
+Teste que valida a multiplicação.
 
-1. Crie um teste que valide e tenha a descrição “2 x 3 deve ser 6”:
-    - `multiplicar(2, 3)` deve retornar `6`
-2. Agora crie uma função `multiplicar(a, b)` em `index.js`
+Caso de teste:
+"2 x 3 deve ser 6"
+
+## Como executar
+
+1. Abra o terminal na pasta do projeto
+2. Execute:
+
+node test.js
+
+Se aparecer:
+Teste passou: 2 x 3 deve ser 6
+
+Então está funcionando.
