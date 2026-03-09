@@ -1,0 +1,12 @@
+{
+  "name": "projeto-taxa",
+  "version": "1.0.0",
+  "description": "Projeto de teste com Jest",
+  "main": "taxaService.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
