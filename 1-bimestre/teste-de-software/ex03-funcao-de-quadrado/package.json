@@ -1,0 +1,12 @@
+{
+  "name": "projeto-quadrado",
+  "version": "1.0.0",
+  "description": "Teste da função calcularQuadrado com Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
