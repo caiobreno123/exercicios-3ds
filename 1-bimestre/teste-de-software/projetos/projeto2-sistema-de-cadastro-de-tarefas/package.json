@@ -1,0 +1,12 @@
+
+{
+  "name": "projeto2-sistema-tarefas",
+  "version": "1.0.0",
+  "description": "Sistema simples de cadastro de tarefas com testes Jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
