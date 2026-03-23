@@ -1,0 +1,12 @@
+{
+  "name": "sistema-produtos-mock",
+  "version": "1.0.0",
+  "description": "Mock simples de banco de produtos com testes Jest",
+  "main": "bancoProdutos.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
